@@ -31,5 +31,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-035E85?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 ![http://mazassumnida.wtf/api/v2/generate_badge?boj=eastheat10](http://mazassumnida.wtf/api/v2/generate_badge?boj=eastheat10)
-
-<script src="https://gist.github.com/her0807/16f742b98f8ac1d1a5fa750040afc3b5.js"></script>
