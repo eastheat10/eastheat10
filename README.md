@@ -1,6 +1,8 @@
-### Hi there 👋 Dong Yeol
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi there 👋 Dong Yeol&fontSize=50" />
 
-# JAVA!
+### 
+
+
 
 <!--
 **eastheat10/eastheat10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
