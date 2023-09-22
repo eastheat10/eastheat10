@@ -19,17 +19,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Language** 
+---
+![java](https://img.shields.io/badge/Java-3F8AA2.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 
+**Framework**
+---
+![springboot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![vue](https://img.shields.io/badge/Vue.js-3EB37F?&style=for-the-badge&logo=Vue.js&logoColor=white)
 
-<img src="https://img.shields.io/badge/Java-3F8AA2?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML5-DE4E26?style=flat-square&logo=Html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-2DA5D5?style=flat-square&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javscript-EED81A?style=flat-square&logo=Javascript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+**Database**
+---
+![mysql](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
+**Infrastructure**
+---
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
-
-<img src="https://img.shields.io/badge/Spring-6CB33E?style=flat-square&logo=Spring&logoColor=ffffff"/></a> <img src="https://img.shields.io/badge/Django-0B2E20?style=flat-square&logo=Django&logoColor=white"/></a> <img src="https://img.shields.io/badge/Vue.js-3EB37F?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-
-
-<img src="https://img.shields.io/badge/MySQL-035E85?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=amazonaws&logoColor=white" />
 
 ![http://mazassumnida.wtf/api/v2/generate_badge?boj=eastheat10](http://mazassumnida.wtf/api/v2/generate_badge?boj=eastheat10)
