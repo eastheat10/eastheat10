@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/MySQL-035E85?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=amazonaws&logoColor=white" />
+
 ![http://mazassumnida.wtf/api/v2/generate_badge?boj=eastheat10](http://mazassumnida.wtf/api/v2/generate_badge?boj=eastheat10)
