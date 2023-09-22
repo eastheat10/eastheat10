@@ -35,10 +35,15 @@ Here are some ideas to get you started:
 **Database**
 ---
 ![mysql](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 **Infrastructure**
 ---
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![ec2](https://img.shields.io/badge/ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white)
+![rdS](https://img.shields.io/badge/RDS-527FFF.svg?&style=for-the-badge&logo=amazonrds&logoColor=white) <br />
+![jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) 
+![github-actions](https://img.shields.io/badge/Github_Actions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 
